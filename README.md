@@ -4,5 +4,7 @@
 
 ### File naming convention:
 - All XYZs are named numberLetter.xyz
-- Numbers correspond to functional groups given in 'Hymel-FunctionalGroups.jpg'
-- Letters correspond to the first letter of functionalization site names given in 'Hymel-FunctionalizationSites.jpg'
+- Numbers correspond to those found in the functional group list given below
+- Letters correspond to the first letter of functionalization site names given in the graphic below
+
+<img src="https://user-images.githubusercontent.com/39427025/67980662-4eda4f00-fbf5-11e9-834b-93aaec2b076c.JPG" width="45%"></img> <img src="https://user-images.githubusercontent.com/39427025/67980541-0b7fe080-fbf5-11e9-9e46-b7d31b913c52.jpg" width="20%"></img>
