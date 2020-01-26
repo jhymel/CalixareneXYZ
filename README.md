@@ -1,6 +1,6 @@
 # CalixareneXYZ
 
-## Database of functionalized calixarenes interacting with CO2. All structures created using a MD confirmational search piped into DFT optimization at the PBE-D3(BJ)/def2-TZVP level of theory.
+## Database of functionalized calixarenes interacting with CO<sub>2</sub>. All structures created using a MD confirmational search piped into DFT optimization at the PBE-D3(BJ)/def2-TZVP level of theory.
 
 ### File naming convention:
 - All XYZs are named numberLetter.xyz
